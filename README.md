@@ -2,7 +2,7 @@
 
 ---
 
-A python implementation of One-Step Gaussian-Newton solver with Laplace Regularization in the 
+A Python implementation of One-Step Gaussian-Newton solver with Laplace Regularization in the 
 
 ### Effect of structured packing on EIT image reconstruction.
 https://ieeexplore.ieee.org/document/6958445
